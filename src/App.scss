@@ -1,0 +1,169 @@
+.Link {
+  text-decoration: none;
+}
+.ab li {
+  display: inline;
+  padding-right: 4px;
+}
+.abc {
+  margin-left: 50px;
+  padding: 20px;
+  gap: 100px;
+}
+.navbar-nav li {
+  padding: 10px;
+}
+.ss {
+  position: absolute;
+  top: 30%;
+  margin-left: 218px;
+  padding: 7px;
+}
+.sus {
+  border-top: 2px dashed black;
+}
+.navbar .navbar-nav .nav-link {
+  color: #000000;
+  font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link:hover {
+  color: red;
+}
+.navbar .navbar-nav .nav-item {
+  position: relative;
+}
+.navbar .navbar-nav .nav-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: red;
+  width: 0%;
+  content: "";
+  height: 2px;
+  top: 15px;
+  transition: all 0.5s;
+}
+
+.navbar .navbar-nav .nav-item:hover::after {
+  width: 100%;
+}
+.bc {
+  width: 250px;
+}
+.vvx {
+  background: whitesmoke;
+  margin-top: 10px;
+}
+.bvc {
+  background: #000;
+  text-align: center;
+  height: 5vh;
+}
+.kkk {
+  height: 30vh;
+  object-fit: cover;
+}
+.jkl {
+  padding-top: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+.who {
+  background-color: #99060b;
+  color: #fff;
+  display: inline-block;
+  padding: 12px 50px 10px 40px !important;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-top: 10px;
+  width: 550px;
+  margin-left: 10px;
+}
+.ggg {
+  height: 15vh;
+  overflow: hidden;
+  object-fit: cover;
+}
+.block3 {
+  ul {
+    text-decoration: none;
+    list-style-type: none;
+  }
+}
+.whom {
+  background-color: #99060b;
+  color: #fff;
+  display: inline-block;
+  padding: 12px 50px 10px 40px !important;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-top: 10px;
+  width: 100px;
+  text-align: center;
+  ul {
+    li {
+      list-style: none;
+    }
+  }
+}
+.rit {
+  text-align: center;
+  color: white;
+  height: 7vh;
+  :hover {
+    text-align: center;
+    color: black;
+    background: darkblue;
+  }
+}
+.shank {
+  text-decoration: none;
+  height: 12vh;
+}
+.kki {
+  height: 20vh;
+  object-fit: cover;
+}
+.kbc {
+  color: black;
+  :hover {
+    color: #ff6461;
+  }
+}
+.yog {
+  background: red;
+  color: white;
+  display: inline-block;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  padding: 10px;
+}
+.nmb {
+  margin-top: 18px;
+}
+.den {
+  height: 60vh;
+}
+.am {
+  background: RGBA(0, 0, 0, 0.5);
+  padding-left: 5px;
+}
+.dog {
+  height: 160vh;
+}
+.kkd {
+  height: 23vh;
+  object-fit: cover;
+}
+.kkw 
+{
+  height: 20vh;
+  width: 300px;
+}
+.kku
+{
+  height: 15vh;
+  width: 150px;
+}
